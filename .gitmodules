@@ -1,0 +1,3 @@
+[submodule "raspios-docker"]
+	path = raspios-docker
+	url = https://github.com/z80020100/pi-gen-docker.git
